@@ -7,3 +7,4 @@ Hola mi nombre es Estuardo Alejandro Vásquez, soy estudiante del primer ciclo d
 * Diseñar
 * Juegar videojuegos
 * Ver series
+* Viajar
